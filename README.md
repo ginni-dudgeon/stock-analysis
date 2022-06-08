@@ -359,8 +359,7 @@ End Sub
 Images of Time Elapsed
 
 Green Stocks 2017
-Resources/Resources/Green_Stocks_2017_Run_Time.png 
-
+![image](https://user-images.githubusercontent.com/105091538/172523675-f8e1bbf9-f8ea-44ae-b0c3-03cf1385de2a.png)
 Green Stocks 2018
 
 VBA Challenge 2017
