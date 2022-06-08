@@ -359,7 +359,7 @@ End Sub
 Images of Time Elapsed
 
 Green Stocks 2017
-[
+[[
 ](https://github.com/ginni-dudgeon/stock-analysis/blob/main/Resources/Resources/Green_Stocks_2017_Run_Time.png)
 
 Green Stocks 2018
