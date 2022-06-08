@@ -360,11 +360,18 @@ Images of Time Elapsed
 
 Green Stocks 2017
 ![image](https://user-images.githubusercontent.com/105091538/172523675-f8e1bbf9-f8ea-44ae-b0c3-03cf1385de2a.png)
+
+
 Green Stocks 2018
+![image](https://user-images.githubusercontent.com/105091538/172523791-f5ed3dbc-d3f7-42a9-bc05-2f9080075513.png)
+
 
 VBA Challenge 2017
+![image](https://user-images.githubusercontent.com/105091538/172523840-06e83395-2b99-4051-ac4a-ae6e24e37a6c.png)
+
 
 VBA Challenge 2018
+![image](https://user-images.githubusercontent.com/105091538/172523893-584ba700-fd69-4c51-bce1-5872bbee9305.png)
 
 
 The analysis is well described with screenshots and code (4 pt).
