@@ -6,7 +6,7 @@ A friend name Steve became a financial planner and decided to help his parents a
 
 The stock analysis project was created to compare the total daily volume and the return of 12 different stocks. Data was taken from the performance of various stocks throughout 2017 and 2018. This included over 3000 lines of data. Code was written in VBA script to allow Steve to run a report of stocks for both 2017 and 2018. A button was added so Steve could run his reports with little effort. This original report is entitiled "Green Stocks."
 
-The speed at which the data was delivered was important to Steve. To help optimize the speed the original code used was refractored to become more efficient for Steve's purposes. The new faster report is called "VBA CHallenge."
+The speed at which the data was delivered was important to Steve. To help optimize the speed the original code used was refractored to become more efficient for Steve's purposes. The new faster report is called "VBA CHallenge." Refractoring code is the act of reusing previously written code while making changes to apply to a new project.
 
 
 Results
@@ -374,7 +374,19 @@ VBA Challenge 2018
 ![image](https://user-images.githubusercontent.com/105091538/172523893-584ba700-fd69-4c51-bce1-5872bbee9305.png)
 
 
-The analysis is well described with screenshots and code (4 pt).
+
 Summary
-There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
-There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
+
+Advantages and Disadvantages of Refractoring Code
+
+This project was completed using refractored code. There are both advantages and disadvantages to refractoring code. Using code that has already been written saves time. This means that most of the code is already there and only a few changes are needed. This also helps prevent errors. It is a lot easier to make a coding mistake when rewriting an entire piece of code.
+
+A disadvantage of refractoring code is that sometimes just changing pieces of code does not work. This can lead to debugging the code to find the issue. It is important to test the code as you go to ensure there are no mistakes.
+
+
+Advantages and Disadvantages 
+
+There are both advantages and disadvantages of the original and refractored VBA script. The original VBA script runs well. It provides the information requested without issue. The disadvantage is the time to run the report. The time it takes to run the report is around 0.27 seconds. That is not a long time, but the time could definitely be shortened.
+
+An advantage to using the refractored VBA script is that only takes 0.07 seconds to run. That's a big time savings. It also was easy to write since it used a lot of original code. A disadvantage is that the refractored VBA script may not produce as nice a report as the original script. 
+
